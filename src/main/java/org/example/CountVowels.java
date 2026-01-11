@@ -12,6 +12,6 @@ public class CountVowels {
     }
 
     public static void main(String[] args) {
-        System.out.println(countVowels("documentation")); // 6
+        System.out.println(countVowels("documentation"));
     }
 }
