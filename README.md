@@ -16,7 +16,7 @@ This repository contains solutions for (OOPS) PART 1 - CODING SOLUTION, includin
 
 ---
 
-## Exercises Implemented
+## Tasks Implemented
 
 1. Swap 2 Strings without a temporary variable (`SwapStrings`)
 2. Count alphabetic characters in a string (`CountAlpha`)
