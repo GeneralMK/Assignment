@@ -16,50 +16,6 @@ This repository contains solutions for (OOPS) PART 1 - CODING SOLUTION, includin
 
 ---
 
-## Project Structure (Typical)
-src/
-├── main/
-│ └── java/
-│ └── org.example/
-│ ├── AnagramCheck.java
-│ ├── Animal.java
-│ ├── AnimalBehavior.java
-│ ├── Bird.java
-│ ├── CountAlpha.java
-│ ├── CountVowels.java
-│ ├── Eagle.java
-│ ├── Elephant.java
-│ ├── FilterAStrings.java
-│ ├── FirstNonRepeatingChar.java
-│ ├── Lion.java
-│ ├── Mammal.java
-│ ├── PalindromeCheck.java
-│ ├── Parrot.java
-│ ├── Registration.java
-│ ├── RemoveDuplicates.java
-│ ├── ReverseString.java
-│ ├── SwapStrings.java
-│ ├── WordCount.java
-│ └── ZooSimulation.java
-│
-└── test/
-└── java/
-└── assignmenttests/
-├── AnagramCheckTest.java
-├── CountAlphaTest.java
-├── CountVowelsTest.java
-├── FilterAStringsTest.java
-├── FirstNonRepeatingCharTest.java
-├── PalindromeCheckTest.java
-├── RegistrationTest.java
-├── RemoveDuplicatesTest.java
-├── ReverseStringTest.java
-├── SwapStringsTest.java
-├── WordCountTest.java
-└── ZooSimulationTest.java
-
----
-
 ## Exercises Implemented
 
 1. Swap 2 Strings without a temporary variable (`SwapStrings`)
